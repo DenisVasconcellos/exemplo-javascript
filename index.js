@@ -1,3 +1,13 @@
+var pessoa = {
+    nome: "Mario",
+    idade: 25,
+    assinate: true,
+    enderecos: {
+        logadouro: "",
+        numero: 234,
+        bairro: "Jardim Florido",
+    }
+}
 
 
 var contador = 0;
